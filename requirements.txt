@@ -1,0 +1,7 @@
+gerrychain
+geopandas
+matplotlib
+networkx
+numpy
+pandas
+shapely
