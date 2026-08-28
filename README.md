@@ -1,5 +1,6 @@
 # recomb-compactness-study
-This repository contains the Python code used for the dissertation *The Effects of Compactness Weighting on ReComb-Generated Redistricting Ensembles*.
+This repository contains the Python code used for the dissertation *Exploring Gerrymandering through ReComb-Based
+Markov Chain Monte Carlo Ensembles*.
 
 ## Files
 src/load data.py: loads and inspects the Pennsylvania VTD dataset.
